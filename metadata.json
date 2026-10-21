@@ -1,0 +1,6 @@
+{
+  "name": "CropX",
+  "description": "Smart Agriculture Management app for crops, land plots, finances, and farm tracking with Bengali and English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
